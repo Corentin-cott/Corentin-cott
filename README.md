@@ -1,4 +1,4 @@
-# 👋 Hey moi c'est Corentinn
+# 👋 Hey moi c'est Corentin
 
 ➖ Alias : Cocow, Azertor
 
