@@ -1,4 +1,4 @@
-# 👋 Hey moi c'est Corentinn
+# 👋 Hey moi c'est Corentin
 
 ➖ Alias : Cocow, Azertor
 
@@ -9,7 +9,10 @@
 👇 Mes projets les plus intéréssants
 
 
-<!-- ![Corentin COTT](https://github.com/Corentin-cott/Corentin-cott/blob/main/CorentinCOTT.png?raw=true)
+<!-- Ancien readme, je devrais peut être le mettre ailleurs que ici en commentaire...
+Je le ferais peut être, un jour !
+
+![Corentin COTT](https://github.com/Corentin-cott/Corentin-cott/blob/main/CorentinCOTT.png?raw=true)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Dev-Junior!-brown" align="center" />
