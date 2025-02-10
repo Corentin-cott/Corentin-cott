@@ -1,8 +1,9 @@
 # 👋 Hey moi c'est Corentin
 
-[![corentin-cott gitHub stats](https://github-readme-stats.vercel.app/api?username=corentin-cott&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+➖ Alias : Cocow, Azertor
 
-![corentin-cott top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corentin-cott&layout=compact&theme=cobalt)
+🦦 Créateur de l'[Antre des Loutres](https://antredesloutres.fr)
 
+🎓 Étudiant BAC+4 à l'ENI École Informatique
 
-**Merci au projet [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) de [Anurag Hazra](https://github.com/anuraghazra) !*
+👇 Mes projets les plus intéréssants
